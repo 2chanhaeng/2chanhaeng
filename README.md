@@ -40,11 +40,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-ffffff?style=flat-square&logo=fastapi)
 
-## WakaTime Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## Algorithm
 
 [![Solved.ac 2chanhaeng 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2chanhaeng)](https://solved.ac/2chanhaeng)

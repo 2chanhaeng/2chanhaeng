@@ -1,9 +1,19 @@
 # 2chanhaeng
 
-![2chanhaeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=2chanhaeng&show_icons=true&theme=radical)
+![2chanhaeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=2chanhaeng&show_icons=true&bg_color=45,1B98D1,9BDBF5&title_color=fff&text_color=fff&boborder_color=1B98D1&locale=kr)
+
 [![2chanhaeng's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2chanhaeng&size_weight=0&count_weight=1&langs_count=8&layout=donut&bg_color=45,1B98D1,9BDBF5&title_color=fff&text_color=fff&boborder_color=1B98D1&locale=kr)](https://github.com/2chanhaeng/github-readme-stats)
-[![2chanhaeng's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2chanhaeng&layout=compact)](https://github.com/2chanhaeng/github-readme-stats)
+
+<details>
+<summary>
+
 [![wakatime](https://wakatime.com/badge/user/7d1df315-b169-4e35-8d75-d20fc4ed21f8.svg?style=flat-square)](https://wakatime.com/@2chanhaeng)
+
+</summary>
+
+[![2chanhaeng's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2chanhaeng&layout=compact)](https://github.com/2chanhaeng/github-readme-stats)
+
+</details>
 
 ## Main Stack
 

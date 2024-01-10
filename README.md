@@ -30,25 +30,25 @@
 
 ### Frontend
 
-![React](https://img.shields.io/badge/-react-ffffff?style=flat-square&logo=react)
-![MUI](https://img.shields.io/badge/-MUI-ffffff?style=flat-square&logo=mui)
+![React](https://img.shields.io/badge/-react-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=ffffff)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 
 ### Language
 
-![Python](https://img.shields.io/badge/-Python-ffd43b?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 ## Sub Stack
 
 ### Backend
 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![FastAPI](https://img.shields.io/badge/-FastAPI-ffffff?style=flat-square&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff)
 
 ## Algorithm
 
